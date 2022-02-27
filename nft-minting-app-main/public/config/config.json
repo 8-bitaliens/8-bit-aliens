@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdBB9DbB1eF24571B45FCC6c7a372b4fE25A7fF86",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xdbb9dbb1ef24571b45fcc6c7a372b4fe25a7ff86",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "8-bit aliens",
+  "SYMBOL": "8BBNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/8-bit-aliens",
+  "SHOW_BACKGROUND": true
+}
